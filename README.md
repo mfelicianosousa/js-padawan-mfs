@@ -1,6 +1,8 @@
 # Meu repositorio Git-Hub js-padawan-mfs
 ## Formação Java-Script Mestre Jedi
 
-Inciando as brincadeiras com github. 
+Iniciando a brincadeira com github. 
 
 Em 16/02/2018
+
+Seja um mestre JS-Jedi - :)
