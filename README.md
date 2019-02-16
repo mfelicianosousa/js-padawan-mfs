@@ -6,3 +6,5 @@ Iniciando a brincadeira com github.
 Em 16/02/2018
 
 Seja um mestre JS-Jedi - :)
+
+Sejam bem vindo a sua formação !!!
